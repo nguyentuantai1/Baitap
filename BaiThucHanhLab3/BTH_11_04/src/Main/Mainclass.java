@@ -1,5 +1,5 @@
 package Main;
-
+//main class
 import Shapes.HinhChuNhat;
 import Shapes.HinhTron;
 import Shapes.HinhTru;
